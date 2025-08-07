@@ -81,14 +81,14 @@ This tool is perfect for:
 🌟 Results
 
 ✅ Created a working chatbot that simulates interviews
+
 ✅ Successfully deployed on IBM Watsonx platform
+
 ✅ Gave accurate, role-based questions and feedback
+
 ✅ Used by students for mock interviews
+
 ✅ Ready for future upgrades like voice and emotion analysis
-
-
-🔗 Demo Images Attached for your reference : 
-
 
 
 
