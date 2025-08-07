@@ -106,7 +106,9 @@ This tool is perfect for:
 🏅 IBM Certifications
 
  ✔️ RAG Lab Certificate  
+
  ✔️ IBM AI Agent Lab Completion
+
 ✔️ Journey to cloud certificate
 
 
